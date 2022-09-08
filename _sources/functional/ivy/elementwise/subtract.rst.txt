@@ -2,6 +2,8 @@ subtract
 ========
 
 .. autofunction:: ivy.functional.ivy.elementwise.subtract
+
+.. autofunction:: ivy.container.container_methods.subtract
 |
 | **Supported Frameworks:**
 
